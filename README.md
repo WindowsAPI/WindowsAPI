@@ -31,7 +31,8 @@
 - **Experienced in pentesting Web Applications & Networks.**
 - **Created a Discord Bot that enables remote multiuser DLL injection, even in VAC protected games.**  
 - **Developed a hybrid OBS memory editor that compares to Cheat Engine in functionality.**
-- **Debugged the entire Duolingo platform creating a exploit framework.**
+- **Debugged the entire Duolingo platform creating an exploit framework.**
+- **More vulnerabilities found than I can count.**
 - **More repos that I will upload and unprivate soon!**
 
 ---
