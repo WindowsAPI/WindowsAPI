@@ -1,4 +1,4 @@
-# WindowsAPI // devil
+# devil
 
 ### Reverse Engineering | Pentesting | Exploit Development
 
@@ -21,7 +21,7 @@
 
 ### ⚙️ Technologies & Expertise
 
-- **Languages:** Python, C++, Lua, PHP
+- **Languages:** Python, C++
 - **Skills:** Pentesting, Reverse Engineering, Exploit Development
 
 ---
